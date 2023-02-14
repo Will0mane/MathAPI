@@ -1,0 +1,4 @@
+name: MathAPI
+version: '${project.version}'
+main: com.will0mane.apis.mathapi.MathAPI
+api-version: 1.18
